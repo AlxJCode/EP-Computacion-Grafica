@@ -1,0 +1,289 @@
+@media only screen and (max-width: 1846px) {
+    .mark-logos {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .logo {
+        margin-right: 30px!important;
+    }
+}
+
+@media only screen and (max-width: 1800px) {
+    .marketing-conceptos {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-bottom: 40px;
+    }
+    .m-concepto {
+        width: 620px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 40px;
+    }
+    .logo {
+        margin-right: 30px!important;
+    }
+}
+
+@media only screen and (max-width: 1702px) {
+    .app-descrip-txt {
+        width: 100%;
+    }
+    .app-descrip img {
+        margin-top: 30px;
+    }
+    .app-descrip {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+
+@media only screen and (max-width: 1500px) {
+    .navegar {
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        background: #746CEB;
+        color: #fff;
+        width: 350px;
+        min-width: 350px;
+    }
+    .navegar h4 {
+        font-size: 30px;
+        margin: 40px 0;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+    }
+    .navegar .lista-intro a {
+        color: #fff;
+        font-size: 23px;
+        text-decoration: none;
+        width: 100%;
+        /*border: 1px solid #fff;
+        border-left: none;
+        border-right: none;*/
+        text-align: center;
+        padding: 20px ;
+        cursor: pointer;
+        transition: all .3s  ease;
+    }
+
+    .navbar {
+        width: 100%;
+        background: #302B70;
+        height: 80px;
+        color: #fff;
+        padding: 0 200px;
+    }
+
+    .quees-1 {
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+    }
+    .concepto {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 10px;
+        justify-content: center;
+    }
+    .concepto-txt {
+        padding: 0;
+    }
+    .concepto-img {
+        margin-top: 20px;
+        min-width: 300px;
+        height: 300px;
+        border-radius: 30px;
+        overflow: hidden;
+        margin-right: 0px;
+        box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.6);
+    }
+
+
+
+    .desarrollo-container{
+        padding: 30px;
+    }
+    .desa-page {
+        padding: 0!important;
+    }
+    .un-elemento {
+        display: flex;
+        flex-wrap: wrap;
+        margin-bottom: 50px;
+        justify-content: center;
+    }
+    .elemento-img {
+        min-width: 400px;
+        box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.6);
+        display: flex;
+        border-radius: 30px;
+        overflow: hidden;
+        margin-top: 20px;
+    }
+    .elemento-txt p {
+        font-size: 20px!important;
+        margin-top: 15px;
+        margin-right: 0px;
+    }
+    .elemento-img-700px {
+        min-width: 700px!important;
+        height: auto;
+    }
+    .elemento-img-600px {
+        display: flex;
+        min-width: 500px!important;
+        width: 600px!important;
+    }
+
+
+
+
+    .marketing-container{ 
+        padding: 20px;
+        width: 100%;
+    }
+    .mark-page {
+        padding: 0!important;
+    }
+    .marketing-conceptos {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-bottom: 40px;
+    }
+
+
+
+    .app-container {
+        padding: 20px;
+        width: 100%;
+    }
+    .app-descrip {
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+        padding: 0 0px;
+        justify-content: space-between;
+        margin-bottom: 50px;
+    }
+    .app-descrip {
+        display: flex;
+        justify-content: center;
+    }
+    .app-descrip img {
+        width: 350px;
+    }
+
+
+
+    .text-container {
+        width: 90%;
+        background: #a5a5a542;
+        padding: 50px;
+        font-size: 25px;
+        border-radius: 40px;
+        box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.6);
+    }
+
+}
+
+
+@media only screen and (max-width: 1315px) {
+    .fondo-intro {
+        position: absolute;
+        z-index: -1;
+        width: 150%;
+        top: 0;
+        left: 0;
+        object-fit: cover;
+    }
+    .navbar {
+        width: 100%;
+        background: #302B70;
+        height: 80px;
+        color: #fff;
+        padding: 0 200px;
+    }
+    
+}
+@media only screen and (max-width: 1180px) {
+    .fondo-intro {
+        position: absolute;
+        z-index: -1;
+        width: 180%!important;
+        top: 0;
+        left: 0;
+        object-fit: cover;
+    }
+    .text-container {
+        width: 90%;
+        background: #a5a5a542;
+        padding: 50px;
+        font-size: 20px;
+        border-radius: 40px;
+        box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.6);
+    }
+    .i-info {
+        position: absolute;
+        z-index: -1;
+        width: 250%!important;
+        top: 0;
+        left: 0;
+        object-fit: cover;
+    }
+    .navbar {
+        width: 100%;
+        background: #302B70;
+        height: 60px;
+        color: #fff;
+        padding: 0 200px;
+    }
+
+    .navegar {
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        background: #746CEB;
+        color: #fff;
+        width: 300px;
+        min-width: 300px;
+    }
+    .navegar h4 {
+        font-size: 27px;
+        margin: 35px 0;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+    }
+    .navegar .lista-intro a {
+        color: #fff;
+        font-size: 22px;
+        text-decoration: none;
+        width: 100%;
+        /*border: 1px solid #fff;
+        border-left: none;
+        border-right: none;*/
+        text-align: center;
+        padding: 20px ;
+        cursor: pointer;
+        transition: all .3s  ease;
+    }
+
+}
+@media only screen and (max-width: 1593px) {
+    
+    .navbar {
+        width: 100%;
+        background: #302B70;
+        height: 80px;
+        color: #fff;
+        padding: 0 200px;
+    }
+}
